@@ -1,0 +1,14 @@
+�csklearn.linear_model._logistic
+LogisticRegression
+q)�q}q(XpenaltyqXl2qXdualq�XtolqG?6��C-XCqG?�X
+fit_interceptq�Xintercept_scalingq	KXclass_weightq
+NXrandom_stateqKXsolverqX	liblinearq
+Xmax_iterqKdXmulti_classqXautoqXverboseqKX
+warm_startq�Xn_jobsqNXl1_ratioqNXn_features_in_qKXclasses_qcnumpy.core.multiarray
+_reconstruct
+qcnumpy
+ndarray
+qK�qCbq�qRq(KK�qcnumpy
+dtype
+qXi8q���q Rq!(KX<q"NNNJ����J����Ktq#b�Cq$tq%bXcoef_q&hhK�q'h�q(Rq)(KKK�q*hXf8q+���q,Rq-(Kh"NNNJ����J����Ktq.b�Cb�{�]���rx��/�?�-z�ӝ?q/tq0bX
+intercept_q1hhK�q2h�q3Rq4(KK�q5h-�C�6A��?q6tq7bXn_iter_q8hhK�q9h�q:Rq;(KK�q<hXi4q=���q>Rq?(Kh"NNNJ����J����Ktq@b�CqAtqBbX_sklearn_versionqCX0.24.1qDub.
