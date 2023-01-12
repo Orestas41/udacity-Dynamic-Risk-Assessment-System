@@ -1,0 +1,17 @@
+[[0.35664112699987527, 1.0463511940001808], (lastmonth_activity     5625.923077
+lastyear_activity       763.538462
+number_of_employees     457.461538
+exited                    0.500000
+dtype: float64, lastmonth_activity     425.0
+lastyear_activity       97.5
+number_of_employees     99.0
+exited                   0.5
+dtype: float64, lastmonth_activity     19444.774621
+lastyear_activity       2016.609357
+number_of_employees      800.604833
+exited                     0.509902
+dtype: float64, lastmonth_activity     0.0
+lastyear_activity      0.0
+number_of_employees    0.0
+exited                 0.0
+dtype: float64), b'Package             Version Latest  Type\n------------------- ------- ------- -----\nasttokens           2.1.0   2.2.1   wheel\nattrs               22.1.0  22.2.0  wheel\ncharset-normalizer  2.1.1   3.0.1   wheel\ncomm                0.1.1   0.1.2   wheel\ncryptography        38.0.4  39.0.0  wheel\ndebugpy             1.6.4   1.6.5   wheel\nexceptiongroup      1.0.4   1.1.0   wheel\nfastapi             0.88.0  0.89.1  wheel\nhttpcore            0.16.2  0.16.3  wheel\nhttpx               0.23.1  0.23.3  wheel\nimportlib-metadata  5.1.0   6.0.0   wheel\nimportlib-resources 5.10.0  5.10.2  wheel\niniconfig           1.1.1   2.0.0   wheel\nipykernel           6.18.1  6.20.1  wheel\nipython             8.6.0   8.8.0   wheel\nipywidgets          8.0.2   8.0.4   wheel\njson5               0.9.5   0.9.11  wheel\njsonschema          4.17.1  4.17.3  wheel\njupyter_client      7.4.7   7.4.8   wheel\njupyter_core        5.0.0   5.1.3   wheel\njupyter-server      1.23.3  2.0.6   wheel\njupyterlab          3.5.0   3.5.2   wheel\njupyterlab_server   2.16.3  2.18.0  wheel\njupyterlab-widgets  3.0.3   3.0.5   wheel\nmatplotlib          3.6.2   3.6.3   wheel\nnbclient            0.7.0   0.7.2   wheel\nnbconvert           7.2.5   7.2.7   wheel\nnbformat            5.7.0   5.7.3   wheel\nnumpy               1.23.5  1.24.1  wheel\npackaging           21.3    23.0    wheel\nplatformdirs        2.5.2   2.6.2   wheel\nprompt-toolkit      3.0.33  3.0.36  wheel\npydantic            1.10.2  1.10.4  wheel\nPygments            2.13.0  2.14.0  wheel\npyOpenSSL           22.1.0  23.0.0  wheel\npyrsistent          0.19.2  0.19.3  wheel\npytz                2022.6  2022.7  wheel\npyzmq               24.0.1  25.0.0  wheel\nrfc3986             1.5.0   2.0.0   wheel\nscikit-learn        1.1.3   1.2.0   wheel\nscipy               1.9.3   1.10.0  wheel\nsetuptools          65.5.1  65.7.0  wheel\nstarlette           0.22.0  0.23.1  wheel\nterminado           0.17.0  0.17.1  wheel\ntraitlets           5.5.0   5.8.1   wheel\nurllib3             1.26.13 1.26.14 wheel\nwidgetsnbextension  4.0.3   4.0.5   wheel\nxgboost             1.7.1   1.7.3   wheel\n']
