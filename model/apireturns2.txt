@@ -1,4 +1,4 @@
-[[0.35664112699987527, 1.0463511940001808], (lastmonth_activity     5625.923077
+[[1.1732477739997194, 2.421234103999268], (lastmonth_activity     5625.923077
 lastyear_activity       763.538462
 number_of_employees     457.461538
 exited                    0.500000
